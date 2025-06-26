@@ -50,6 +50,9 @@ Performed in **Excel Power Query**:
 - **Slicers**: Dynamic filters by Month and Product Category  
 
 ---
+### 📊 Dashboard
+
+
 
 ## 💡 Key Insights
 
