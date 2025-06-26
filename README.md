@@ -51,8 +51,7 @@ Performed in **Excel Power Query**:
 
 ---
 ### 📊 Dashboard
-
-
+![Dashboard](Dashboard.png)
 
 ## 💡 Key Insights
 
